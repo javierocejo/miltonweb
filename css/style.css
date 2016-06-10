@@ -1385,7 +1385,7 @@ h4.modal-title {
 		min-height: 377px;
 	}
 	.gallery {
-		padding: 22em 0 3em;
+		padding:4em 0 3em;
 	}
 	.services-bottom-grid-left h4:before {
 		left: -6%;
@@ -1695,7 +1695,7 @@ h4.modal-title {
 		font-size: 1.3em;
 	}
 	.gallery {
-		padding: 23em 0 2em !important;
+		padding: 4em 0 2em !important;
 	}
 	.banner-bottom-text-pos2 {
 		left: 32% !important;
@@ -1900,7 +1900,7 @@ h4.modal-title {
 		width: 50%;
 	}
 	.gallery {
-		padding: 35em 0 2em !important;
+		padding: 4em 0 2em !important;
 	}
 	.banner-bottom-text-pos2 {
 		left: 39% !important;
@@ -1986,7 +1986,7 @@ h4.modal-title {
 		font-size: 1.2em;
 	}
 	.gallery {
-		padding: 33em 0 2em !important;
+		padding: 4em 0 2em !important;
 	}
 	.about-bottom h3 {
 		font-size: 1.5em;
