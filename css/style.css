@@ -17,6 +17,7 @@ padding:0;
 }
 .center-container {
   background: url(../video/portada1600.jpg);
+  background-repeat: no-repeat;
   height:800px;
 }
 .background-video {
