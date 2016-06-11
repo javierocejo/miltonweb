@@ -16,8 +16,7 @@ margin:0;
 padding:0;
 }
 .center-container {
-  background: url(../video/portada1600.jpg);
-  background-repeat: no-repeat;
+  background: url(../video/portada1900.jpg);
   height:800px;
 }
 .background-video {
@@ -1178,6 +1177,10 @@ h4.modal-title {
 }
 }
 @media (max-width:1080px){
+  .center-container {
+    background: url(../video/portada1600.jpg);
+    height:800px;
+  }
 	.link-effect-4 a {
 		margin: 0 6px;
 	}
